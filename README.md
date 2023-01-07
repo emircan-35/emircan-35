@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Emircan Tepe and I am a sophomore year computer engineering student at Dokuz Eylül University. I am interested in machine learning and back-end development. I also love dealing with database! 
+My name is Emircan Tepe and I am a junior year computer engineering student at Dokuz Eylül University. I am interested in machine learning and back-end development. I also love dealing with database! 
 
 You can find several repositories of projects I have worked on or am currently working on in my profile. Also, you can reach my CV by clicking [here](https://github.com/emircan-35/emircan-35/blob/main/CV.pdf). 
 
